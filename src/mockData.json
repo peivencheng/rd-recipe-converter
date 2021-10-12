@@ -1,0 +1,10 @@
+{
+    "rdProbe":  [{
+        "value": "ProbeA",
+        "label": "ProbeA"
+    },
+    {
+        "value": "ProbeB",
+        "label": "ProbeB"
+    }]
+}
